@@ -30,4 +30,4 @@ public class Main {
 ## Результаты
 
 1. 0% не успешных тестов, выявлена ошибка при сложении в  коде
-2. https://github.com/TatianaHrip/Wo/issues/4
+2. https://github.com/TatianaHrip/Cat/issues/1
